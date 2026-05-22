@@ -84,4 +84,4 @@ The project is built around:
 
 ## Contact
 
-Project contact: humanperformance.analytique@gmail.com
+Project contact: humanperformance.analytics@gmail.com
