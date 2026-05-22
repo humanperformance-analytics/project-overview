@@ -22,6 +22,7 @@ Garmin API
 → normalized data store
 → deterministic analytics engine
 → user dashboard
+```
 
 ## Current Prototype Principles
 
